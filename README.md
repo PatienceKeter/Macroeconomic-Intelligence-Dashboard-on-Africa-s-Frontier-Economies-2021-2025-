@@ -1,4 +1,4 @@
-# Macroeconomic-Intelligence-Dashboard-on-Africa-s-Frontier-Economies-2021-2025-
+# Macroeconomic-Intelligence-Dashboard-on-Africa-s-Frontier-Economies-2021-2025
 
 ## Overview
 
