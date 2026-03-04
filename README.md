@@ -84,6 +84,22 @@ The dashboard demonstrates how macroeconomic variables interact rather than oper
 
 ---
 
+## Repository Structure
+
+Macroeconomic-Intelligence-Dashboard-on-Africa-s-Frontier-Economies-2021-2025
+│
+├── README.md
+├── Dashboard/
+│ └── The_Wellbeing_of_Africa's_Frontier_Economies.pbix
+│
+├── Images/
+│ ├── growth_page.png
+│ ├── trade_page.png
+│ ├── monetary_page.png
+│ └── vulnerability_page.png
+│
+└── Macroeconomic_Report.pdf
+
 ## Project Objective
 
 This project showcases applied macroeconomic analysis and data storytelling using Power BI. It highlights how quantitative tools cab be used in a comparative assessment of the economic resilience, monetary policy credibility, and debt sustainability of African frontier markets.
