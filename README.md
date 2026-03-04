@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents an interactive macroeconomic dashboard analyzing six African frontier economies — Kenya, Egypt, Ethiopia, Nigeria, Rwanda, and South Africa.
+This is an interactive macroeconomic dashboard analyzing six African frontier economies — Kenya, Egypt, Ethiopia, Nigeria, Rwanda, and South Africa.
 
 Using World Bank and IMF data, the dashboard evaluates growth performance, monetary policy credibility, external sector stability, and debt sustainability. The objective is to assess macroeconomic resilience through an integrated analytical framework rather than isolated indicators.
 
@@ -83,6 +83,16 @@ The dashboard demonstrates how macroeconomic variables interact rather than oper
 5. Refer to the dashboard snapshots included in this repository for a visual and interactive preview.
 
 ---
+
+### Dashboard Preview
+
+![Dashboard Preview](Images/growth_page.jpg)
+![Database Preview](Images/trade_page.jpg)
+![Database Preview](Images/monetary_page.jpg)
+![Database Preview](Images/vulnerability_page.jpg)
+
+---
+
 ```
 ## Repository Structure
 
